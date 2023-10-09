@@ -2,7 +2,8 @@ This is a project to have my investments info at my tips.
 I have investments in US and Canadian ETFs that pay me my monthly distributions.
 The monthly distributions would complement the retirement income from Canadian Govt during my retirment years.
 The investments in ETFs is my way of reducing the risk of loss of capital.
-The holdings within ETFs are diversified and the various ETFs by nature provides a well diversified portolifo.
+The holdings within ETFs are diversified and the various ETFs by nature provide a well diversified portolifo.
+Some of the ETFs I hold trace just a single stock say Tesla, Amazon etc. 
 A diversification across different products, services, geographical locations gives a sense of security.
 Also the monthly distributions reduce my original investments and eventually will come a time when I play with house money
 Currently I have two brokerage firms handle my investments viz. CIBC, CI Direct 
